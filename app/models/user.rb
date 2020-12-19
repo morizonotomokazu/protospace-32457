@@ -10,7 +10,6 @@ class User < ApplicationRecord
          validates :profile
          validates :occupation
          validates :position
-        
         end
 
 end
